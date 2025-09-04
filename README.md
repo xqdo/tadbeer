@@ -1,6 +1,6 @@
 # 📱 Tadbeer - Personal Life Management App
 
-> **Tadbeer** (Arabic: تدبير) - meaning "management" or "planning" - is your comprehensive companion for managing all aspects of personal life with Islamic values at its core.
+> **Tadbeer** (Arabic: تدبير) - meaning "management" or "planning" - is your comprehensive companion for managing all aspects of personal life with Islamic values at its core .
 
 ## 🌟 Overview
 
