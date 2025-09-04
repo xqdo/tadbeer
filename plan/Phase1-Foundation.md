@@ -66,7 +66,7 @@ class TaskCategory {
 ### Day 1: Project Setup & Architecture
 - [x] Initialize Flutter project structure
 - [x] Set up dependencies (Riverpod, Hive, GoRouter, etc.)
-- [ ] Create folder structure according to technical plan
+- [x] Create folder structure according to technical plan
   ```
   lib/
     app/
@@ -86,8 +86,8 @@ class TaskCategory {
         application/
         data/
   ```
-- [ ] Initialize Hive database with boxes
-- [ ] Set up theme system with Material 3
+- [x] Initialize Hive database with boxes
+- [x] Set up theme system with Material 3
 
 ### Day 2: Core Task Models & Repository
 - [ ] Create Hive adapters for Task, Category, Settings

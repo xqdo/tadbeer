@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Read(/C:\\Users\\muqta\\Desktop\\workspace\\tadbeer/**)",
-      "Bash(flutter:*)"
+      "Bash(flutter:*)",
+      "Read(/C:\\Users\\muqta\\Desktop\\workspace\\tadbeer\\lib/**)"
     ],
     "deny": [],
     "ask": []
